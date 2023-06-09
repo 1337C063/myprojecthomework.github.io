@@ -1,0 +1,94 @@
+* {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 0px;
+    padding: 0px;
+}
+.header{
+    width:100%;
+    color: white;
+    padding: 50px;
+    background: url(img/old-black-background-grunge-texture-dark-wallpaper-blackboard-chalkboard-room-wall.jpg);
+	box-sizing: border-box;
+    text-align: center;
+}
+    
+
+.menu-item {
+    list-style: none;
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.container{
+    max-width: 1140px;  
+    padding: 0 15px;
+    margin: 0 auto;
+}
+
+.cards-section{
+    padding: 50px 0px;
+}
+
+.cards-title, .cards-description{
+    color: #391527;
+    text-align: center;
+}
+
+.card{
+    padding: 25px;
+    margin-top: 25px;
+    width: 25%;
+    background: white;
+    box-shadow: 0px 2px 7px 0px #ffdc90;
+    text-align: center;
+}
+
+.card-link{
+    text-decoration: none;
+    color: white;
+}
+
+.card-button{
+    text-align: center;
+    background: #153927;
+    padding: 10px 70px;
+    border-radius: 10px;
+}
+
+
+.card-text{
+
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.footer{
+    background: url(img/old-black-background-grunge-texture-dark-wallpaper-blackboard-chalkboard-room-wall.jpg);
+    background-size: cover;
+    padding: 50px 0px;
+}
+
+.copyright{
+    color: white;
+}
+
+.copyright{
+    color: white;
+}
+
+.copyright{
+    color: white;
+}
+.card-img{
+    height: 100px;
+    width: 100px;
+}
+.img-photo{
+    height: 500px;
+    width: 800px;
+}
+.menu-link{
+    text-transform: uppercase;
+    font-weight: bold;
+}
